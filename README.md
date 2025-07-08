@@ -68,5 +68,5 @@ This dashboard uncovers several critical insights that can directly inform HR st
 *   **Business Impact:** This demographic is typically in a phase of rapid career advancement. Losing them means losing a pipeline of future leaders and experienced professionals.
 *   **Recommendation:** Develop and clearly communicate career progression paths and professional development opportunities for this age group to show them a long-term future within the company.
 
-### Screenchots
+### Screenshots
 *   **The dashboard looks like:** (https://github.com/Aasthashrivastava07/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20ss.png)
